@@ -7,7 +7,7 @@ Magazin de produse apple cu posibilitatea de a adauga/vinde/sterge produse
 - User/Client
 - Produs
 - Bon fiscal/Factura
-- 
+- Securitate 
 ### Important!
 Aveți voie cu cod generat de modele de limbaj la care nu ați contribuit semnificativ doar în folder-ul `generated`.
 Codul generat pus "ca să fie"/pe care nu îl înțelegeți se punctează doar pentru puncte bonus, doar în contextul
